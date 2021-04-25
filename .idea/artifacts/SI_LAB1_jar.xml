@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SI_LAB1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SI_LAB1_jar</output-path>
+    <root id="archive" name="SI_LAB1.jar">
+      <element id="module-output" name="SI_LAB1" />
+    </root>
+  </artifact>
+</component>
